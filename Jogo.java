@@ -8,6 +8,7 @@ public class Jogo {
         jogador.pontosDeAtaque = 25;
         jogador.ataqueComum = new AtaqueComum();
         jogador.ataqueEspecial = new AtaqueEspecial();
+        System.out.println("SENAI");
 
         Personagem inimigo = new Personagem();
         inimigo.nome = "Monstro";
